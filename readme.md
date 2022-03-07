@@ -9,7 +9,7 @@
   password= secret_sauce
 
 
--   My framework is Cucumber Cypress TDD.
+-   My framework is Cypress TDD.
 -   I built my framework using JS Programming Language.
 -   I added a video of the login page test execution.
 
